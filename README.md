@@ -1,7 +1,7 @@
 # KINECKoneMOUSE
 
-KINECKoneMOUSE V0.4
-by Jose David Cuartas
+KINECKoneMOUSE Is a project to control the movement of the mouse using a Kinect One.
+Developed by Jose David Cuartas
 Hypermedia Lab of Technologies for Communication
 Faculty of Communication Sciences
 University Los Libertadores
@@ -12,7 +12,9 @@ This code is based in the example: "3D Skeleton"
 Made by Thomas Sanchez Lengeling
 For the Kinect for Windows v2 library for processing
 
-KINECKoneMOUSE V0.4
+# Español
+
+KINECKoneMOUSE Es un proyecto para controlar el movimiento del mouse usando un Kinect One.
 Desarrollado Jose David Cuartas Correa
 Laboratorio Hipermedia de Tecnologias para Comunicación
 Facultad de Ciencias de la Comunicación
