@@ -27,7 +27,7 @@ KINECKoneMOUSE V0.4
 Desarrollado por Jose David Cuartas Correa
 Laboratorio Hipermedia de Tecnologias para Comunicación
 Fundación Universitaria Los Libertadores
-Bogotá, Colombia, 2015.
+Bogotá, Colombia, 2016.
 Licencia GPL Versión 3 
 
 Este código se basa en el ejemplo: "3D Skeleton" 
