@@ -1,9 +1,7 @@
 # KINECKoneMOUSE
 
 __KINECKoneMOUSE__ Is a project to control the movement of the mouse using a Kinect One, ___Processing___ language and the library ___Kinect v2 for Windows___.
-Developed by Jose David Cuartas
-__Hypermedia Lab of Technologies for Communication__
-University Los Libertadores
+Developed by Jose David Cuartas in the__Hypermedia Lab of Technologies for Communication__ at Los Libertadores University,
 2016, Bogotá, Colombia.
 __GPL license V3__
 
@@ -14,9 +12,9 @@ For the Kinect v2 for Windows library for processing
 ###Español
 
 __KINECKoneMOUSE__ Es un proyecto para controlar el movimiento del mouse usando un Kinect One, el lenguaje de programación ___Processing___ y la librería ___Kinect v2 for Windows___.
-Desarrollado Jose David Cuartas Correa
-__Laboratorio Hipermedia de Tecnologias para Comunicación__
-Fundación Universitaria Los Libertadores
+Desarrollado por Jose David Cuartas Correa en el
+__Laboratorio Hipermedia de Tecnologias para Comunicación__ de la
+Fundación Universitaria Los Libertadores, 
 Bogotá, Colombia, 2015.
 __Licencia GPL Versión 3__ 
 
