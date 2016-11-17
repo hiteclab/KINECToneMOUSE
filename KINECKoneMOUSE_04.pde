@@ -1,27 +1,25 @@
 /*
 KINECKoneMOUSE V0.4
 by Jose David Cuartas
-Hypermedia Lab of technologies for Communication
-Faculty of Communication Sciences
+Hypermedia Lab of Technologies for Communication
 University Los Libertadores
 2016, Bogotá, Colombia.
 GPL license V3
 
 This code is based in the example: "3D Skeleton" 
 Made by Thomas Sanchez Lengeling
-For the Kinect for Windows v2 library for processing
+For the Kinect v2 for Windows library for processing
 
 KINECKoneMOUSE V0.4
 por Jose David Cuartas Correa
 Laboratorio Hipermedia de Tecnologias para Comunicación
-Facultad de ciencias de la Comunicación
 Fundación Universitaria Los Libertadores
 Bogotá, Colombia, 2015.
 Licencia GPL Versión 3 
 
 Este código se basa en el ejemplo: "3D Skeleton" 
 Desarrollado por Thomas Sanchez Lengeling
-Para la Librería Kinect for Windows v2 de Processing
+Para la Librería Kinect v2 for Windows de Processing
 
 */
 
