@@ -12,18 +12,17 @@ ENGLISH
 Developed by Jose David Cuartas
 Hypermedia Lab of Technologies for Communication
 University Los Libertadores
-2016, Bogotá, Colombia.
+Bogotá, Colombia, 2016.
 GPL license V3
 
 This code is based in the example: "3D Skeleton" 
 Made by Thomas Sanchez Lengeling
-For the Kinect v2 for Windows library for processing
+For the Kinect v2 for Windows library in processing 3.0
 
 ***********************************************************
 ESPAÑOL
 ***********************************************************
 
-KINECKoneMOUSE V0.4
 Desarrollado por Jose David Cuartas Correa
 Laboratorio Hipermedia de Tecnologias para Comunicación
 Fundación Universitaria Los Libertadores
@@ -32,7 +31,7 @@ Licencia GPL Versión 3
 
 Este código se basa en el ejemplo: "3D Skeleton" 
 Desarrollado por Thomas Sanchez Lengeling
-Para la Librería Kinect v2 for Windows de Processing
+Para la Librería Kinect v2 for Windows en Processing 3.0
 ********************************************************/
 
 import KinectPV2.*;
