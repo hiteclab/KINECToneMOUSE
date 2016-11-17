@@ -12,7 +12,7 @@ This code is based in the example: "3D Skeleton"
 Made by Thomas Sanchez Lengeling
 For the Kinect for Windows v2 library for processing
 
-# Español
+###Español
 
 __KINECKoneMOUSE__ Es un proyecto para controlar el movimiento del mouse usando un Kinect One.
 Desarrollado Jose David Cuartas Correa
