@@ -2,7 +2,7 @@
 
 KINECKoneMOUSE V0.4
 by Jose David Cuartas
-Hypermedia Lab of technologies for Communication
+Hypermedia Lab of Technologies for Communication
 Faculty of Communication Sciences
 University Los Libertadores
 2016, Bogotá, Colombia.
@@ -13,9 +13,9 @@ Made by Thomas Sanchez Lengeling
 For the Kinect for Windows v2 library for processing
 
 KINECKoneMOUSE V0.4
-por Jose David Cuartas Correa
+Desarrollado Jose David Cuartas Correa
 Laboratorio Hipermedia de Tecnologias para Comunicación
-Facultad de ciencias de la Comunicación
+Facultad de Ciencias de la Comunicación
 Fundación Universitaria Los Libertadores
 Bogotá, Colombia, 2015.
 Licencia GPL Versión 3 
